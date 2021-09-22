@@ -1,0 +1,45 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+		
+	background-color:orange;
+	
+}
+h1
+{
+	font-size:100px;
+	margin:20px;
+	color:yellow;
+	text-shadow:5px 3px white;
+}
+p
+{
+	font-size:40px;
+	
+	color:green;
+	text-shadow:5px 0px white;
+}
+
+.container {
+	margin:auto;
+	text-align: center;
+
+	
+}
+.dice{
+	
+	display:inline-block;
+	margin:20px;
+}
+button
+{
+	padding:20px;
+	background-color:blue;
+	color:pink;
+	border:none;
+	
+}
